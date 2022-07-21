@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.label11 {
+  font-weight: 900; /*for add user ,view and edit*/
+  font-size: 1.5rem;
+  text-align: center;
+}
+.editbtn1 {
+  margin-left: 10rem;
+}
+/* .editbtnw2 {
+  margin-left: 2rem;
+} */
+.editform {
+  width: 80%;
+}
+.form-control {
+  width: 50%;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+.form-label1 {
+  float: left;
+  text-align: right;
+  margin-top: 10px;
+}
+.editDiv {
+  width: 40%;
+  margin-left: 550px;
+  margin-top: 40px;
+}
+
+.nav-link {
+  font-weight: 900;
+}
+
+/* .modalClickButton{
+   float: right;
+   margin-right: 3rem;
+   color: tomato;
+} */
+
+.Alerttt {
+  height: 44px;
+}
+.AlertttMessage {
+  font-size: medium;
+}
+.React {
+  color: white;
+  font-weight: 800;
+  font-style: normal;
+}
+.HomeToast {
+  margin-left: 40%;
+  width: 20%;
+}
+
+/* modal */
+.modalHomeDialog {
+  margin: 0%;
+  padding: 0%;
+}
+
+.modalHomeBody {
+  margin: 0%;
+  padding: 0%;
+}
+.form-labelHome {
+  text-align: right;
+  margin-left: 30px;
+}
+.form-controlHome {
+  margin-left: 80px;
+}
+.form-controlHomeE {
+  margin-left: 100px;
+}
+.form-controlHomeF {
+  margin-left: 90px;
+}
+/* modal */
+span {
+  margin-left: 200px;
+}
+
+.btn-close {
+  font-size: small;
+}
+
+/* card */
+.cardImg {
+  /* borderRadius: 50%; */
+  width: 70px;
+  height: 70px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.card:hover {
+  padding: 1%;
+  margin: 1%;
+  box-shadow: 0 14px 28px rgba(112, 105, 105, 0.25),
+    0 10px 10px rgba(112, 105, 105, 0.25);
+}
+
+.card {
+  margin: 3%;
+}
+.cardBody {
+  text-align: left;
+}
+
+/* loader */
+.loader {
+  border: 8px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 8px solid #3498db;
+  margin-top: 20%;
+  margin-left: 50%;
+  width: 70px;
+  height: 70px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* loginform */
+.form {
+  background-color: blueviolet;
+}
+
+.loginform {
+  width: 30%;
+  height: 70%;
+  margin: auto;
+  margin-top: 15rem;
+  background: linear-gradient(#52cfeb, #42a2bc);
+  border-radius: 10px;
+}
+.remember {
+  size: 1px;
+}
+.LoginControl1 {
+  width: 60%;
+  text-align: center;
+}
+.LoginControl2 {
+  width: 60%;
+  text-align: center;
+}
+.LoginControl3 {
+  width: 60%;
+  text-align: center;
+}
+.loginbtn1 {
+  margin-bottom: 7px;
+  margin-left: 8rem;
+}
+.loginbtn2 {
+  margin-bottom: 7px;
+  margin-left: 1rem;
+}
+.remember {
+  margin-left: 10rem;
+}
+
+.image {
+  height: 30px;
+}
